@@ -11,7 +11,7 @@ if ($_SERVER['SERVER_NAME'] === 'localhost') {
     $db_name = 'gs-cinderella_pos_system'; // データベース名
     $db_host = 'mysql3109.db.sakura.ne.jp'; // ホスト名
     $db_id   = 'gs-cinderella_pos_system';   // ユーザー名
-    $db_pw   = 'gjmta45682';                           // パスワード
+    $db_pw   = '';                           // パスワード
 }
 
 // データベース接続
